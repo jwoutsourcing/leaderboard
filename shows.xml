@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shows>
+    
+    <show id = "1">
+        <name>Billions</name>
+        <image_path>/a_UT2/images/shows/billions.jpg</image_path>
+        <id>1</id>
+    </show>
+    
+    <show id = "2">
+        <name>Family Guy</name>
+        <image_path>/a_UT2/images/shows/family_guy.jpg</image_path>
+        <id>2</id>
+    </show>
+    
+    <show id = "3">
+        <name>Game of Thrones</name>
+        <image_path>/a_UT2/images/shows/g_o_t.jpg</image_path>
+        <id>3</id>
+    </show>
+    
+    <show id = "4">
+        <name>Madam Secretary</name>
+        <image_path>/a_UT2/images/shows/madam_secretary.jpg</image_path>
+        <id>4</id>
+    </show>
+    
+    <show id = "5">
+        <name>Silicon Valley</name>
+        <image_path>/a_UT2/images/shows/silicon_valley.jpg</image_path>
+        <id>5</id>
+    </show>
+    
+    <show id = "6">
+        <name>Modern Family</name>
+        <image_path>/a_UT2/images/shows/modern_family.jpg</image_path>
+        <id>6</id>
+    </show>
+    
+    <show id = "7">
+        <name>The Simpsons</name>
+        <image_path>/a_UT2/images/shows/simpsons.jpg</image_path>
+        <id>7</id>
+    </show>
+    
+    <show id = "8">
+        <name>Twin Peaks</name>
+        <image_path>/a_UT2/images/shows/twin_peaks.jpg</image_path>
+        <id>8</id>
+    </show>
+    
+    <show id = "9">
+        <name>Veep</name>
+        <image_path>/a_UT2/images/shows/veep.jpg</image_path>
+        <id>9</id>
+    </show>
+    
+    <show id = "10">
+        <name>Westword</name>
+        <image_path>/a_UT2/images/shows/westworld.jpg</image_path>
+        <id>10</id>
+    </show>
+    
+</shows>
+    
